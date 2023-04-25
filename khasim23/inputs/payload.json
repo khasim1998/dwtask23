@@ -1,0 +1,25 @@
+[{
+    "name": "khasim shaik",
+    "web": "tutorialsmedia.com",
+    "phone":12345,
+    "fax": null,
+    "email":"khasim@gmail.com",
+    "score":8
+},
+{
+    "name": "shareef shaik",
+    "web": "abc.com",
+    "phone":null,
+    "fax": null,
+    "email":"shareef @gmail.com",
+    "score":5
+},
+{
+    "name": "irfan shaik",
+    "web": "null",
+    "phone":56566,
+    "fax": 45788,
+    "email":"irfan@gmail.com",
+    "score":9
+}
+]
